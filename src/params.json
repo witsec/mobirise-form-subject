@@ -1,9 +1,9 @@
 {
-    "name": "Form Subject",
+    "name": "Form Subject v0.2",
     "alias": "witsec-form-subject",
-    "version": 0.1,
+    "version": 0.2,
     "minAppVersion": "4",
     "appScript": true,
-	"description":"Change the subject of default Mobirise contact/subscribe forms.",
+	"description":"Change the subject of default Mobirise contact/subscribe forms. <a href='https://witsec.nl'>Learn more...</a>",
 	"logo":"thumbnail.png"
 }
